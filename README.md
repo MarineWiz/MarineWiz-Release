@@ -21,5 +21,13 @@ MarineWiz는 발주자의 다양한 요구사항을 반영한 고품질 SW를 �
 ![marinewiz](https://user-images.githubusercontent.com/45934727/73902010-d95ada80-48d7-11ea-91dc-cea54f775ec3.JPG)
 
 ## [설치 방법 및 환경 설정]
+### 1. 설치 방법
+* 다운로드
+   -  MarineWiz 설치파일, 필수 설치 디렉토리의 파일을 모두 다운받는다.
+   -  NDP472-DevPack-ENU.exe 를 설치한다.
+   -  setup.exe 를 실행한다.
 
+### 2. 환경 설정
+- MSBuild를 기반으로 Build를 수행하여야 하기 때문에 MSBuild 경로를 설정해야 한다.
+    - Main 화면의 상단 Menu Project > Option > Build Tab에 경로 설정한다.
 ## [사용 방법]
