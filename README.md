@@ -1,8 +1,7 @@
 # MarineWiz 1.0
 MarineWiz는 발주자의 다양한 요구사항을 반영한 고품질 SW를 저렴한 비용으로 빠르게 개발 가능한 조선해양특화 SW통합개발도구
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-## MarineWiz v2.0이 나왔습니다. https://github.com/MarineWiz/MarineWiz-Release-v1.0
+## MarineWiz v2.0이 나왔습니다. https://github.com/MarineWiz/MarineWiz-Release-v2.0
 
 ***
 
